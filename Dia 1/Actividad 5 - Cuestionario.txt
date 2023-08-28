@@ -1,0 +1,103 @@
+Que es una red?
+
+Es un conjunto de computadoras interconectadas que interactuan entre si.
+
+
+
+Que es el modelo TCP/IP?
+
+Es el protocolo sobre el cual se rigen las comunicaciones entre las computadoras con base al direccionamiento IP asignado a los dispositivos 
+
+
+
+Que es una IP?
+
+Es una direccion que se le asigna a todos los dispositivos conectados a una red 
+
+
+Que es el protocolo TCP?
+
+Es el protocolo control de transporte  (TransferControlProtocol)
+
+
+Dentro del protocolo TCP, ¿Que es el protocolo HTTP?
+
+Es el protocolo que permite la visualizacion de hipertexto (Texto plano) en un navegador (HiperTextTransferProtocol)
+
+
+Puerto dle protocolo HTTP? 
+
+Puerto 8080
+
+Puerto del protocolo HTTPS?
+
+443
+
+
+Cual es la diferencia entre HTTP y HTTPS?
+
+La diferencia es el tipo de cifrado a la hora del envio y la recepcion, https maneja el protocolo ssl que permite el cifrado en ambas puntas de la comunicacion para tener una mayor seguridad.
+
+
+
+Que signica el modelo Cliente-Servidor?
+
+El modelo cliente servidor toma como referencia que hay un cliente que realiza una solicitud la cual pasa por un servidor que a su vez valida la mejor opcion para poder llegar al destino.
+
+
+Que es una peticion (request) en HTTP?
+
+Una request es el proceso que realiza un dispositivo a una pag solicitando el acceso a la misma
+
+
+Que es una respuesta (response) en HTTP?
+
+Es la respuesta que envia el servidor con base a la peticion generada por parte del cliente
+
+
+Secciones de una peticion?
+
+Encabezado
+Origen
+Contenido
+Destino
+End Flag
+
+
+Secciones de una respuesta?
+
+Encabezado
+Origen
+Contenido
+Destino
+
+
+
+El codigo de respuesta 404 y 500 a que se refieren?
+
+El codigo de respuesta 404 es que no hay conexion o respuesta por parte del servidor, mientras que el error 500 lo que nos indica 
+
+
+Lenguajes de programacion para el Back End
+
+Python
+Php
+java
+
+
+
+
+Lenguajes de programacion para el Front End
+
+JS
+CCS
+java
+
+
+Que es Burp Suite?
+
+Ni idea
+
+
+
+
