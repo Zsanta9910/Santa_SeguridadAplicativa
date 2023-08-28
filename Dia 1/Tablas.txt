@@ -1,0 +1,7 @@
+x = int ( input ( 'Ingresa el numero del que quieres su tabla de multiplicar entre el 1 al 10' ) )
+
+r = range ( 1 , x + 1 )
+
+for i in r:
+
+    print i , 2 * i , 3 * i , 4 * i, 5 * i, 6 * i, 7 * i, 8 * i, 9 * i, 10 * i
