@@ -1,4 +1,4 @@
 
-echo useradd $1 ;
+sudo useradd $1 ;
 
 
