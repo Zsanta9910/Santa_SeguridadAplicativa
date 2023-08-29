@@ -1,1 +1,4 @@
 
+echo useradd $1 ;
+
+
