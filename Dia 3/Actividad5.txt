@@ -5,8 +5,8 @@ Actividad 5
 3.- si
 4.- no
 5.- no
-6.- no
-7.- si
+6.- si
+7.- no
 8.- no
 9.- si
 10.- si
